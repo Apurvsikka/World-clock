@@ -5,7 +5,7 @@ body{
     color: #000;
 }
 
-.jumbotron{
+.jumbotron-2{
     font-weight: normal;
     margin-top: 50px ;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
@@ -17,6 +17,21 @@ body{
     color: #666666c2;
     display:flexbox;
     align-self: center;
+}
+
+
+.jumbotron{
+  font-weight: normal;
+  margin-top: 50px ;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  width:800px;
+  height:fit-content ;
+  padding: 15px  30px 15px 15px;
+  background-color: rgba(0, 0, 0, 0.082);
+  border-radius: 5px;
+  color: #666666c2;
+  display:flexbox;
+  align-self: center;
 }
 
 body {
